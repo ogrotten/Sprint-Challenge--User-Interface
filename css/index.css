@@ -79,7 +79,7 @@ header {
     align-items: baseline;
     margin-top: 20px;
 }
-    header img {margin: 0, padding: 0;}
+    header img {margin: 0; padding: 0;}
     header nav {
         display: flex;
         width: 100%;
